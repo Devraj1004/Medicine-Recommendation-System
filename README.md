@@ -1,13 +1,9 @@
----
-
 # 🩺 Medicine Recommendation System
 
 ### An Intelligent, Safety-Aware Healthcare ML Application
 
 > **Role Fit:** Machine Learning Engineer | AI/ML Engineer | Software Engineer (ML)
 > **Core Skills Demonstrated:** Python, Machine Learning, Data Engineering, Feature Mapping, Model Deployment, Safety Logic, Clean Code Architecture
-
----
 
 ## 🚀 Project Summary (HR Snapshot)
 
