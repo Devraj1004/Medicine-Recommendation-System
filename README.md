@@ -5,7 +5,7 @@
 > **Role Fit:** Machine Learning Engineer | AI/ML Engineer | Software Engineer (ML)
 > **Core Skills Demonstrated:** Python, Machine Learning, Data Engineering, Feature Mapping, Model Deployment, Safety Logic, Clean Code Architecture
 
-## 🚀 Project Summary (HR Snapshot)
+## 🚀 Project Summary
 
 The **Medicine Recommendation System** is a **production-minded Machine Learning application** that predicts diseases based on user-reported symptoms and recommends appropriate medicines.
 
@@ -59,7 +59,7 @@ Medicine Recommendation
 
 ---
 
-## 🧩 Key Features (What Recruiters Look For)
+## 🧩 Key Features
 
 ### ✅ 1. Human-Centric Symptom Mapping
 
@@ -230,7 +230,7 @@ From a recruiter’s perspective, this project proves:
 ## 👨‍💻 Author
 
 **Devraj D. Korgaonkar**
-B.Tech – Computer Science (AI & ML)
+B.Tech – Computer Science Engineering (AI & ML)
 Aspiring Machine Learning Engineer
 
 📌 *Actively seeking opportunities in AI/ML, Data Science, and Software Engineering roles.*
@@ -241,11 +241,5 @@ Aspiring Machine Learning Engineer
 
 This application is developed **strictly for educational purposes**.
 It does **not replace professional medical advice**. Always consult a certified healthcare professional.
-
----
-
-### ⭐ Final HR Verdict (Implicit)
-
-> This project reflects a candidate who understands **machine learning in practice**, not just theory.
 
 ---
